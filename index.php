@@ -1,6 +1,6 @@
 <html>
 
-<h1> Codergirl Website Starter</h1>
+<h1> Events Page for CoderGirl Website</h1>
 
 <? print phpinfo(); ?>
 </html>
