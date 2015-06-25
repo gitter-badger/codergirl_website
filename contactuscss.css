@@ -1,0 +1,35 @@
+h1 {
+	color: red;
+}
+
+.header {
+	color:blue
+}
+
+.header p {
+	color:blue
+}
+
+.Join {
+	background-color: #cccccc;
+}
+
+.header {
+	background-image: url(‘www.google.com’);
+}
+
+.header h1 {
+	border: 3px solid #cc0000;
+}
+
+.heading h1 {
+	margin:0px;
+	padding: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	border: 3px solid #ffffff;
+}
+
+//margin-left: auto - will go to the far right. 
