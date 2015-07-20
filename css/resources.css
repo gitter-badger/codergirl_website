@@ -1,0 +1,152 @@
+
+body {
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-weight:bold;
+	font-size: 30pt;
+	line-height: 40px;
+	color: #404040;
+	margin-bottom: 60px;
+}
+
+h2 {
+	font-weight:bold;
+	font-size: 17pt;
+	line-height: 24px;
+	color: #2F6048;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-weight:600;
+	font-size: 15pt;
+	line-height: 23px;
+	color: #404040;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-weight:600;
+	font-size: 15pt;
+	line-height: 28px;
+	color: #404040;
+	margin-bottom: 30px;
+}
+hr {
+	border-style: solid;
+	border-width: 1.5px;
+	color: #cecece;
+}
+
+	
+
+p {
+	font-weight:normal;
+	font-size: 13.5pt;
+	line-height: 25px;
+	color: #404040;
+	margin-bottom: 30px;
+}
+
+p a:link{
+	color:#00527d;
+}
+p a:hover {
+	color: #5EC08F;
+}
+
+#h1Header {
+	font-weight:bold;
+	font-size: 30pt;
+	line-height: 40px;
+	color: #fff;
+	padding-top:90px; // less than half the height of header - 2 line height
+}
+
+.button1 {
+	background-color:#00527D;
+	color:#FFF;
+	font-weight: bold;
+	font-size: 13pt;
+	text-transform: uppercase;
+	padding: 15px;
+	margin-bottom: 20px;
+	margin: auto;
+}
+
+.button1:hover {
+	background-color: #5EC08F;
+}
+
+.center {
+	text-align: center;
+}
+
+#container1{
+	text-align: center;
+	
+	
+}
+
+#container1 a:link, #container1 a:visited, #container1 a:active{
+	color:#FFF;
+	text-decoration:none;
+}
+
+.floatingBox {
+	display: inline-block;
+	width: 300px;
+	height:250px;
+	padding: 50px;
+	margin-right: 25px;
+	margin-left: 25px;
+	border: 2px solid #CECECE;
+	margin-bottom: 120px;
+}
+
+.gray {
+	background-color: #EFEFEF;
+	padding-top:120px;
+	padding-bottom:120px;
+	padding: 120px;
+}
+
+.padding120 {
+	padding: 120px;
+}
+
+
+.sectionHdr {
+	font-weight:bold;
+	font-size: 20pt;
+	line-height: 40px;
+	color: #404040;
+	color: #5EC08F;
+	margin-bottom: 40px;	
+}
+
+.tempHeader {
+	width: 100%;
+	height: 300px;
+	background-color:#2F6048;
+	border-bottom: 11px solid #5EC08F;
+	}
+
+.tempHeader h1{
+	
+	color: #f00;
+}
+
+// NAVIGATION
+
+#containNav {
+	background-color: #FFF;
+}
+
+
+
